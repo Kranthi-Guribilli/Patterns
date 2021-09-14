@@ -97,7 +97,8 @@ Printing these patterns using loops:
 ```
 
 
-11. [Source Code:]() *(Click to redirect to the code)*```text
+11. [Source Code:]() *(Click to redirect to the code)*
+```text
 11.  * * * * *
       * * * *
        * * *
