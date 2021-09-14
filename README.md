@@ -18,7 +18,7 @@ Printing these patterns using loops:
     ****
     *****
  ```
-
+3. [Source Code:]() *(Click to redirect to the code)*
 ```text
 3.  *****
     ****
@@ -26,7 +26,7 @@ Printing these patterns using loops:
     **
     *
 ```
-
+4. [Source Code:]() *(Click to redirect to the code)*
 ```text
 4.  1
     1 2
@@ -35,7 +35,7 @@ Printing these patterns using loops:
     1 2 3 4 5
 ```
 
-
+5. [Source Code:]() *(Click to redirect to the code)*
 ```text
 5.  *
     **
@@ -49,7 +49,7 @@ Printing these patterns using loops:
     *
 ```
 
-
+6. [Source Code:]() *(Click to redirect to the code)*
 ```text
 
 6.       *
@@ -59,9 +59,8 @@ Printing these patterns using loops:
      *****
 ```
 
-
+7. [Source Code:]() *(Click to redirect to the code)*
 ```text
-
 7.   *****
       ****
        ***
@@ -69,7 +68,7 @@ Printing these patterns using loops:
          *
 ```
 
-
+8. [Source Code:]() *(Click to redirect to the code)*
 ```text
 
 8.      *
@@ -79,7 +78,7 @@ Printing these patterns using loops:
     *********
 ```
 
-
+9. [Source Code:]() *(Click to redirect to the code)*
 ```text
 9.  *********
      *******
@@ -88,7 +87,7 @@ Printing these patterns using loops:
         *
 ```
 
-
+10. [Source Code:]() *(Click to redirect to the code)*
 ```text
 10.      *
         * *
@@ -98,7 +97,7 @@ Printing these patterns using loops:
 ```
 
 
-```text
+11. [Source Code:]() *(Click to redirect to the code)*```text
 11.  * * * * *
       * * * *
        * * *
@@ -106,7 +105,7 @@ Printing these patterns using loops:
          *
 ```
 
-
+12. [Source Code:]() *(Click to redirect to the code)*
 ```text
 12.  * * * * *
       * * * *
@@ -120,7 +119,7 @@ Printing these patterns using loops:
      * * * * *
 ```
 
-
+13. [Source Code:]() *(Click to redirect to the code)*
 ```text
 13.      *
         * *
@@ -129,7 +128,7 @@ Printing these patterns using loops:
      *********
 ```
 
-
+14. [Source Code:]() *(Click to redirect to the code)*
 ```text
 14.  *********
       *     *
@@ -138,7 +137,7 @@ Printing these patterns using loops:
          *
 ```
 
-
+15. [Source Code:]() *(Click to redirect to the code)*
 ```text
 15.      *
         * *
@@ -151,7 +150,7 @@ Printing these patterns using loops:
          *
 ```
 
-
+16. [Source Code:]() *(Click to redirect to the code)*
 ```text
 16.           1
             1   1
@@ -160,7 +159,7 @@ Printing these patterns using loops:
       1   4   6   4   1
 ```
 
-
+17. [Source Code:]() *(Click to redirect to the code)*
 ```text
 17.      1
         212
@@ -171,7 +170,7 @@ Printing these patterns using loops:
          1
 ```
 
-
+18. [Source Code:]() *(Click to redirect to the code)*
 ```text
 18.   **********
       ****  ****
@@ -185,7 +184,7 @@ Printing these patterns using loops:
       **********
 ```
 
-
+19. [Source Code:]() *(Click to redirect to the code)*
 ```text
 19.    *        *
        **      **
@@ -198,7 +197,7 @@ Printing these patterns using loops:
        *        *
 ```
 
-
+20. [Source Code:]() *(Click to redirect to the code)*
 ```text
 20.    ****
        *  *
@@ -207,7 +206,7 @@ Printing these patterns using loops:
        ****
 ```
 
-
+21. [Source Code:]() *(Click to redirect to the code)*
 ```text
 21.    1
        2  3
@@ -216,7 +215,7 @@ Printing these patterns using loops:
        11 12 13 14 15
 ```
 
-
+22. [Source Code:]() *(Click to redirect to the code)*
 ```text
 22.    1
        0 1
@@ -224,13 +223,13 @@ Printing these patterns using loops:
        0 1 0 1
        1 0 1 0 1
 ```
-
+23. [Source Code:]() *(Click to redirect to the code)*
 ```text
 23.        *      *
          *   *  *   *
        *      *      *
 ```
-
+24. [Source Code:]() *(Click to redirect to the code)*
 ```text
 24.    *        *
        **      **
@@ -244,7 +243,7 @@ Printing these patterns using loops:
        *        *
 ```
 
-
+25. [Source Code:]() *(Click to redirect to the code)*
 ```text
 25.       *****
          *   *
@@ -252,7 +251,7 @@ Printing these patterns using loops:
        *   *
       *****
 ```
-
+26. [Source Code:]() *(Click to redirect to the code)*
 ```text
 26.   1 1 1 1 1 1
       2 2 2 2 2
@@ -261,7 +260,7 @@ Printing these patterns using loops:
       5 5
       6
 ```
-
+27. [Source Code:]() *(Click to redirect to the code)*
 ```text
 27.   1 2 3 4  17 18 19 20
         5 6 7  14 15 16
@@ -269,7 +268,7 @@ Printing these patterns using loops:
             10 11
 ```
 
-
+28. [Source Code:]() *(Click to redirect to the code)*
 ```text
 28.      *
         * *
@@ -283,7 +282,7 @@ Printing these patterns using loops:
          *
 ```
 
-
+29. [Source Code:]() *(Click to redirect to the code)*
 ```text
 29.      
        *        *
@@ -297,7 +296,7 @@ Printing these patterns using loops:
        **      **
        *        *
 ```
-
+30. [Source Code:]() *(Click to redirect to the code)*
 ```text
 30.         1
           2 1 2
@@ -305,7 +304,7 @@ Printing these patterns using loops:
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5
 ```
-
+31. [Source Code:]() *(Click to redirect to the code)*
 ```text
 31.      4 4 4 4 4 4 4  
          4 3 3 3 3 3 4   
