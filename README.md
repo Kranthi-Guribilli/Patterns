@@ -2,7 +2,7 @@
 
 Printing these patterns using loops:
 
-1. [Source Code:]() *(Click to redirect to the code)*
+1. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/1.c) *(Click to redirect to the code)*
 ```text
 1.  *****
     *****
@@ -10,7 +10,7 @@ Printing these patterns using loops:
     *****
     *****
 ```
-2. [Source Code:]() *(Click to redirect to the code)*
+2. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/2-HalfPyramid.c) *(Click to redirect to the code)*
 ```text
 2.  *
     **
@@ -18,7 +18,7 @@ Printing these patterns using loops:
     ****
     *****
  ```
-3. [Source Code:]() *(Click to redirect to the code)*
+3. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/3-InvertedHalfPyramid.c) *(Click to redirect to the code)*
 ```text
 3.  *****
     ****
@@ -26,7 +26,7 @@ Printing these patterns using loops:
     **
     *
 ```
-4. [Source Code:]() *(Click to redirect to the code)*
+4. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/4-HalfPyramidOfNum.c) *(Click to redirect to the code)*
 ```text
 4.  1
     1 2
@@ -35,7 +35,7 @@ Printing these patterns using loops:
     1 2 3 4 5
 ```
 
-5. [Source Code:]() *(Click to redirect to the code)*
+5. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/5.c) *(Click to redirect to the code)*
 ```text
 5.  *
     **
@@ -49,7 +49,7 @@ Printing these patterns using loops:
     *
 ```
 
-6. [Source Code:]() *(Click to redirect to the code)*
+6. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/6.c) *(Click to redirect to the code)*
 ```text
 
 6.       *
@@ -59,7 +59,7 @@ Printing these patterns using loops:
      *****
 ```
 
-7. [Source Code:]() *(Click to redirect to the code)*
+7. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/7.c) *(Click to redirect to the code)*
 ```text
 7.   *****
       ****
@@ -68,7 +68,7 @@ Printing these patterns using loops:
          *
 ```
 
-8. [Source Code:]() *(Click to redirect to the code)*
+8. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/8-FullPyramid.c) *(Click to redirect to the code)*
 ```text
 
 8.      *
@@ -78,7 +78,7 @@ Printing these patterns using loops:
     *********
 ```
 
-9. [Source Code:]() *(Click to redirect to the code)*
+9. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/9-InvertedFullPyramid.c) *(Click to redirect to the code)*
 ```text
 9.  *********
      *******
@@ -87,7 +87,7 @@ Printing these patterns using loops:
         *
 ```
 
-10. [Source Code:]() *(Click to redirect to the code)*
+10. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/10.c) *(Click to redirect to the code)*
 ```text
 10.      *
         * *
@@ -97,7 +97,7 @@ Printing these patterns using loops:
 ```
 
 
-11. [Source Code:]() *(Click to redirect to the code)*
+11. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/11.c) *(Click to redirect to the code)*
 ```text
 11.  * * * * *
       * * * *
@@ -106,7 +106,7 @@ Printing these patterns using loops:
          *
 ```
 
-12. [Source Code:]() *(Click to redirect to the code)*
+12. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/12.c) *(Click to redirect to the code)*
 ```text
 12.  * * * * *
       * * * *
@@ -120,7 +120,7 @@ Printing these patterns using loops:
      * * * * *
 ```
 
-13. [Source Code:]() *(Click to redirect to the code)*
+13. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/13-HollowPyramid.c) *(Click to redirect to the code)*
 ```text
 13.      *
         * *
@@ -129,7 +129,7 @@ Printing these patterns using loops:
      *********
 ```
 
-14. [Source Code:]() *(Click to redirect to the code)*
+14. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/14-InvertedHollowPyramid.c) *(Click to redirect to the code)*
 ```text
 14.  *********
       *     *
@@ -138,7 +138,7 @@ Printing these patterns using loops:
          *
 ```
 
-15. [Source Code:]() *(Click to redirect to the code)*
+15. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/15.c) *(Click to redirect to the code)*
 ```text
 15.      *
         * *
@@ -151,7 +151,7 @@ Printing these patterns using loops:
          *
 ```
 
-16. [Source Code:]() *(Click to redirect to the code)*
+16. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/16-Pascal'sTriangle.c) *(Click to redirect to the code)*
 ```text
 16.           1
             1   1
@@ -207,7 +207,7 @@ Printing these patterns using loops:
        ****
 ```
 
-21. [Source Code:]() *(Click to redirect to the code)*
+21. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/21-Floyd'sTriangle.c) *(Click to redirect to the code)*
 ```text
 21.    1
        2  3
