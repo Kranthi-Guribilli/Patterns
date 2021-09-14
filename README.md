@@ -1,36 +1,42 @@
 # Patterns
 
 Printing these patterns using loops:
-```text
 
+1. [Source Code:]() *(Click to redirect to the code)*
+```text
 1.  *****
     *****
     *****
     *****
     *****
-
-
+```
+2. [Source Code:]() *(Click to redirect to the code)*
+```text
 2.  *
     **
     ***
     ****
     *****
+ ```
 
-
+```text
 3.  *****
     ****
     ***
     **
     *
+```
 
-
+```text
 4.  1
     1 2
     1 2 3
     1 2 3 4
     1 2 3 4 5
+```
 
 
+```text
 5.  *
     **
     ***
@@ -41,50 +47,67 @@ Printing these patterns using loops:
     ***
     **
     *
+```
 
+
+```text
 
 6.       *
         **
        ***
       ****
      *****
+```
 
+
+```text
 
 7.   *****
       ****
        ***
         **
          *
+```
 
+
+```text
 
 8.      *
        ***
       *****
      *******
     *********
+```
 
 
+```text
 9.  *********
      *******
       *****
        ***
         *
+```
 
 
+```text
 10.      *
         * *
        * * *
       * * * *
      * * * * *
+```
 
 
+```text
 11.  * * * * *
       * * * *
        * * *
         * *
          *
+```
 
 
+```text
 12.  * * * * *
       * * * *
        * * *
@@ -95,22 +118,28 @@ Printing these patterns using loops:
        * * *
       * * * *
      * * * * *
+```
 
 
+```text
 13.      *
         * *
        *   *
       *     *
      *********
+```
 
 
+```text
 14.  *********
       *     *
        *   *
         * *
          *
+```
 
 
+```text
 15.      *
         * *
        *   *
@@ -120,15 +149,19 @@ Printing these patterns using loops:
        *   *
         * *
          *
+```
 
 
+```text
 16.           1
             1   1
           1   2   1
         1   3   3   1
       1   4   6   4   1
+```
 
 
+```text
 17.      1
         212
        32123
@@ -136,8 +169,10 @@ Printing these patterns using loops:
        32123
         212
          1
+```
 
 
+```text
 18.   **********
       ****  ****
       ***    ***
@@ -148,8 +183,10 @@ Printing these patterns using loops:
       ***    ***
       ****  ****
       **********
+```
 
 
+```text
 19.    *        *
        **      **
        ***    ***
@@ -159,30 +196,42 @@ Printing these patterns using loops:
        ***    ***
        **      **
        *        *
+```
 
 
+```text
 20.    ****
        *  *
        *  *
        *  *
        ****
+```
 
+
+```text
 21.    1
        2  3
        4  5  6
        7  8  9  10
        11 12 13 14 15
+```
 
+
+```text
 22.    1
        0 1
        1 0 1
        0 1 0 1
        1 0 1 0 1
+```
 
+```text
 23.        *      *
          *   *  *   *
        *      *      *
+```
 
+```text
 24.    *        *
        **      **
        * *    * *
@@ -193,25 +242,35 @@ Printing these patterns using loops:
        * *    * *
        **      **
        *        *
+```
 
+
+```text
 25.       *****
          *   *
         *   *
        *   *
       *****
+```
 
+```text
 26.   1 1 1 1 1 1
       2 2 2 2 2
       3 3 3 3
       4 4 4
       5 5
       6
+```
 
+```text
 27.   1 2 3 4  17 18 19 20
         5 6 7  14 15 16
           8 9  12 13
             10 11
+```
 
+
+```text
 28.      *
         * *
        * * *
@@ -222,7 +281,10 @@ Printing these patterns using loops:
        * * *
         * *
          *
+```
 
+
+```text
 29.      
        *        *
        **      **
@@ -234,14 +296,17 @@ Printing these patterns using loops:
        ***    ***
        **      **
        *        *
+```
 
+```text
 30.         1
           2 1 2
         3 2 1 2 3
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5
+```
 
-
+```text
 31.      4 4 4 4 4 4 4  
          4 3 3 3 3 3 4   
          4 3 2 2 2 3 4   
