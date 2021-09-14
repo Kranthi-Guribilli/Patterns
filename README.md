@@ -1,7 +1,6 @@
 # Patterns
 
-Print these patterns using loops:<br>
-<b><i>Note: Click on the respective numbers of these patterns below then you will be redirect to the code</i></b>
+Printing these patterns using loops:
 ```text
 
 1.  *****
