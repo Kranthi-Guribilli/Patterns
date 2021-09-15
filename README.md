@@ -171,7 +171,7 @@ Printing these patterns using loops:
          1
 ```
 
-18. [Source Code:]() *(Click to redirect to the code)*
+18. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/18-HollowDiamondInscribedInTriangle.c) *(Click to redirect to the code)*
 ```text
 18.   **********
       ****  ****
