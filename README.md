@@ -283,7 +283,7 @@ Printing these patterns using loops:
          *
 ```
 
-29. [Source Code:]() *(Click to redirect to the code)*
+29. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/29.c) *(Click to redirect to the code)*
 ```text
 29.      
        *        *
