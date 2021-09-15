@@ -244,7 +244,7 @@ Printing these patterns using loops:
        *        *
 ```
 
-25. [Source Code:]() *(Click to redirect to the code)*
+25. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/25-HollowRhombus.c) *(Click to redirect to the code)*
 ```text
 25.       *****
          *   *
