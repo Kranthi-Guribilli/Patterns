@@ -171,7 +171,7 @@ Printing these patterns using loops:
          1
 ```
 
-18. [Source Code:]() *(Click to redirect to the code)*
+18. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/18-HollowDiamondInscribedInTriangle.c) *(Click to redirect to the code)*
 ```text
 18.   **********
       ****  ****
@@ -185,7 +185,7 @@ Printing these patterns using loops:
       **********
 ```
 
-19. [Source Code:]() *(Click to redirect to the code)*
+19. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/19-Butterfly.c) *(Click to redirect to the code)*
 ```text
 19.    *        *
        **      **
@@ -244,7 +244,7 @@ Printing these patterns using loops:
        *        *
 ```
 
-25. [Source Code:]() *(Click to redirect to the code)*
+25. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/25-HollowRhombus.c) *(Click to redirect to the code)*
 ```text
 25.       *****
          *   *
@@ -283,7 +283,7 @@ Printing these patterns using loops:
          *
 ```
 
-29. [Source Code:]() *(Click to redirect to the code)*
+29. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/29.c) *(Click to redirect to the code)*
 ```text
 29.      
        *        *
