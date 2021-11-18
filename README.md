@@ -297,7 +297,7 @@ Printing these patterns using loops:
        **      **
        *        *
 ```
-30. [Source Code:]() *(Click to redirect to the code)*
+30. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/30.c) *(Click to redirect to the code)*
 ```text
 30.         1
           2 1 2
@@ -305,7 +305,7 @@ Printing these patterns using loops:
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5
 ```
-31. [Source Code:]() *(Click to redirect to the code)*
+31. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/31.c) *(Click to redirect to the code)*
 ```text
 31.      4 4 4 4 4 4 4  
          4 3 3 3 3 3 4   
