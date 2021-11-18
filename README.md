@@ -198,7 +198,7 @@ Printing these patterns using loops:
        *        *
 ```
 
-20. [Source Code:]() *(Click to redirect to the code)*
+20. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/20.c) *(Click to redirect to the code)*
 ```text
 20.    ****
        *  *
