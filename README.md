@@ -160,7 +160,7 @@ Printing these patterns using loops:
       1   4   6   4   1
 ```
 
-17. [Source Code:]() *(Click to redirect to the code)*
+17. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/17.c) *(Click to redirect to the code)*
 ```text
 17.      1
         212
