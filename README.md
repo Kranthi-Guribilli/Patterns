@@ -252,7 +252,7 @@ Printing these patterns using loops:
        *   *
       *****
 ```
-26. [Source Code:]() *(Click to redirect to the code)*
+26. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/26.c) *(Click to redirect to the code)*
 ```text
 26.   1 1 1 1 1 1
       2 2 2 2 2
