@@ -230,7 +230,7 @@ Printing these patterns using loops:
          *   *  *   *
        *      *      *
 ```
-24. [Source Code:]() *(Click to redirect to the code)*
+24. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/24.c) *(Click to redirect to the code)*
 ```text
 24.    *        *
        **      **
