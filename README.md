@@ -224,7 +224,7 @@ Printing these patterns using loops:
        0 1 0 1
        1 0 1 0 1
 ```
-23. [Source Code:]() *(Click to redirect to the code)*
+23. [Source Code:](https://github.com/Kranthi-Guribilli/Patterns/blob/main/Code_Snippets/23.c) *(Click to redirect to the code)*
 ```text
 23.        *      *
          *   *  *   *
